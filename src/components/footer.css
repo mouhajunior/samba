@@ -1,0 +1,12 @@
+cd .footer{
+    background-image: url(../images/footer.jpeg);
+    width: 96%;
+    height: 570px;
+    
+ }
+ 
+*{
+    margin: 0;
+    padding: 0;
+ 
+}

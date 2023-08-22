@@ -1,0 +1,277 @@
+@media (min-width:425px) and (max-width:767px){
+   
+    .header{
+        text-align: center;
+       
+    }
+
+    .col-md-6{
+        justify-content: center;
+       
+      
+    }
+
+    .second{
+        margin-top:20%;
+    }
+    .h23{
+        margin-top: 210px;
+        text-align: center;
+    }
+
+    .h4{
+        text-align: center;
+        margin-left: 10%;
+        margin-left: 20px;
+    }
+
+    .scard{
+        text-align: center;
+    }
+    .courses{
+        text-align: center;
+    }
+
+    .whychoose{
+        text-align: center;
+ 
+    }
+    .lorco{
+        margin-top: 10%;
+    }
+
+    .barwhy{
+        justify-content: center;
+        margin-left: 25%;
+       height: 20px;
+    }
+
+    .wh{
+        margin-bottom: 10%;
+    }
+
+    .imagegroupe{
+        margin-left: 22%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .coursesaccess{
+        margin-left: 45%;
+        margin-top: 7%;
+        margin-bottom: 5%;
+    }
+
+    .four{
+        height: 1750px;
+        background: rgb(15, 32, 21, 0.958);
+        width: 100%;
+        justify-content: center;
+    }
+    .ima1{
+        position: absolute;
+        top: -210%;
+        left: 10%;
+        margin-left: 10%;
+        width: 10px;
+      
+    }
+
+   .learnc{
+   position: relative;
+   right: 20%;
+   }
+
+   .leranmusic{
+    margin-left: 20%;
+   }
+
+   .learnbussiness{
+    position: absolute;
+    top: 100%;
+    left: 60%;
+    margin-left: 70%;
+    width: 10px;
+   }
+
+   .art{
+    position: relative;
+    left: 60%;
+   }
+   
+   .textpricing{
+    text-align: center;
+   }
+
+   .barprincing{
+    margin-left: 40%;
+   }
+
+   .advanced{
+    margin-right: 20px;
+    margin-bottom: 30px;
+    position: relative;
+    right: 10%;
+    margin-top: 5%;
+   }
+   .scard2{
+    position: relative;
+    left: 15%;
+   }
+   .test{
+    text-align: center;
+   }
+
+   .bartesti{
+    margin-left: 26%;
+   }
+   .scard{
+    margin-top: 5%;
+    margin-bottom: 16%;
+    text-align: center;
+   }
+   .take2{
+    text-align: center;
+   }
+  
+}
+
+
+@media (min-width:375px) and (max-width:424px){
+
+    .header{
+        text-align: center;
+       
+    }
+
+    .col-md-6{
+        justify-content: center;
+       
+      
+    }
+
+    .second{
+        margin-top:20%;
+    }
+    .h23{
+        margin-top: 210px;
+        text-align: center;
+    }
+
+    .h4{
+        text-align: center;
+        margin-left: 10%;
+        margin-left: 20px;
+    }
+
+    .scard{
+        text-align: center;
+    }
+    .courses{
+        text-align: center;
+    }
+
+    .whychoose{
+        text-align: center;
+ 
+    }
+    .lorco{
+        margin-top: 10%;
+    }
+
+    .barwhy{
+        justify-content: center;
+        margin-left: 25%;
+       height: 20px;
+    }
+
+    .wh{
+        margin-bottom: 10%;
+    }
+
+    .imagegroupe{
+        margin-left: 22%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .coursesaccess{
+        margin-left: 45%;
+        margin-top: 7%;
+        margin-bottom: 5%;
+    }
+
+    .four{
+        height: 1750px;
+        background: rgb(15, 32, 21, 0.958);
+        width: 100%;
+        justify-content: center;
+    }
+    .ima1{
+        position: absolute;
+        top: -210%;
+        left: 10%;
+        margin-left: 10%;
+        width: 10px;
+      
+    }
+
+   .learnc{
+   position: relative;
+   right: 20%;
+   }
+
+   .leranmusic{
+    margin-left: 20%;
+   }
+
+   .learnbussiness{
+    position: absolute;
+    top: 100%;
+    left: 60%;
+    margin-left: 70%;
+    width: 10px;
+   }
+
+   .art{
+    position: relative;
+    left: 60%;
+   }
+   
+   .textpricing{
+    text-align: center;
+   }
+
+   .barprincing{
+    margin-left: 40%;
+   }
+
+   .advanced{
+    margin-right: 20px;
+    margin-bottom: 30px;
+    position: relative;
+    right: 10%;
+    margin-top: 5%;
+   }
+   .scard2{
+    position: relative;
+    left: 15%;
+   }
+   .test{
+    text-align: center;
+   }
+
+   .bartesti{
+    margin-left: 26%;
+   }
+   .scard{
+    margin-top: 5%;
+    margin-bottom: 16%;
+    text-align: center;
+   }
+   .take2{
+    text-align: center;
+   }
+
+   
+}
